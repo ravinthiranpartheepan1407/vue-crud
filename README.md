@@ -1,4 +1,4 @@
-# vue-crud
+# vue-crud node :
 
 ## Project setup
 ```
